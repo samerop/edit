@@ -82,7 +82,7 @@
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
 * [Sign Translate](https://sign.mt/) - Text to Sign-Language Video Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
-* [⁠Braille Tanslator](https://wecapable.com/braille-translator/) - Braille Translator
+* [⁠Braille Translator](https://wecapable.com/braille-translator/) - Braille Translator
 * [LingoJam](https://lingojam.com/) - Translator Creator
 
 ***
