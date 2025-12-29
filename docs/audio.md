@@ -63,7 +63,7 @@
 * [MixtapeMonkey](https://mixtapemonkey.com/) - Hip-Hop / Mixtapes / [Discord](https://discord.gg/4Vsb73fQgd)
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
-* [Jamendo](https://www.jamendo.com/) or [Free Music Archive](https://freemusicarchive.org/) - Independant Music
+* [Jamendo](https://www.jamendo.com/) or [Free Music Archive](https://freemusicarchive.org/) - Independent Music
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
 * [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
