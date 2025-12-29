@@ -1222,7 +1222,7 @@
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [VisuAlgo](https://visualgo.net/) - Data Structures & Algorithm Animations
-* [Algorithm Visualizer](https://algorithm-visualizer.org/), [⁠Staying](https://staying.fun/en) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/algo-visualizers) - Visualize Code Algorithms
+* [Algorithm Visualizer](https://algorithm-visualizer.org/), [⁠Staying](https://staying.fun/en) or [Sorting Algorithms Visualizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/algo-visualizers) - Visualize Code Algorithms
 * [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
 * [Memory Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
 
