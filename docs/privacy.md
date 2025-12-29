@@ -89,7 +89,7 @@
 
 # ► Antivirus / Anti-Malware
 
-* **Note** - It's best to keep Windows Defenders real-time protection on. You can select ‘Allow on device’ for pirated software detections like patches, or exclude by ‘File‘ in ‘Exclusions’ for false positives when needed + [More Info](https://wispydocs.pages.dev/windows/#antivirus).
+* **Note** - It's best to keep Windows Defender's real-time protection on. You can select ‘Allow on device’ for pirated software detections like patches, or exclude by ‘File‘ in ‘Exclusions’ for false positives when needed + [More Info](https://wispydocs.pages.dev/windows/#antivirus).
 ***
 
 * 🌐 **[r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - Antivirus Tool Index
