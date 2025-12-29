@@ -1224,7 +1224,7 @@
 * [VisuAlgo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [Algorithm Visualizer](https://algorithm-visualizer.org/), [⁠Staying](https://staying.fun/en) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/algo-visualizers) - Visualize Code Algorithms
 * [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
-* [Memery Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
+* [Memory Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
 
 ***
 
